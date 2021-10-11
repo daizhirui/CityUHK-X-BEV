@@ -1,10 +1,12 @@
 # CityUHK-X-BEV Dataset
 
-This dataset is an extended dataset based on CityUHK-X dataset.
+This dataset is an extended dataset based on CityUHK-X dataset. 
+
+Related paper: [BEV-Net](https://github.com/daizhirui/BEVNet)
 
 The files can be loaded by using `h5py`. 
 
-| Input | Head Map |Feet Map| BEV Map | BEV Back-Projected to IV |
+| Image | Head Map |Feet Map| BEV Map | BEV Back-Projected to IV |
 |:-----:|:--------:|:------:|:-------:|:------------------------:|
 |![](assets/example-input.png)|![](assets/example-head.png)|![](assets/example-feet.png)|![](assets/example-bev.png)|![](assets/example-bev_back.png)|
 
